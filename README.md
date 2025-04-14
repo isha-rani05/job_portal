@@ -32,7 +32,7 @@ Font Awesome
 
 🚀 How to Run
 Clone the repository:
-git clone https://github.com/yourusername/craigs-directory.git
+git clone https://github.com/isha-rani05/job_portal/blob/main/JOB_PORTAL.PHP
 
 Place the project in your server directory (e.g., htdocs if using XAMPP).
 
